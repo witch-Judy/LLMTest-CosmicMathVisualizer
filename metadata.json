@@ -1,0 +1,5 @@
+{
+  "name": "Cosmic Math Visualizer",
+  "description": "A high-performance interactive 3D particle system demonstrating mathematical beauty through morphing shapes (Fractal, Möbius, Heart, Penrose) with sci-fi aesthetics.",
+  "requestFramePermissions": []
+}
